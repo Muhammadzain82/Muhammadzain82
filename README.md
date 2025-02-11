@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi <br>I am Muhammad Zain Rajput<br><br>Innovative and results-driven Software Engineer in designing,<br>developing, and implementing web and software solutions. Proficient in<br>a variety of programming languages and frameworks including HTML,<br>CSS, JavaScript, Java, C++, C#, and Bootstrap. Demonstrated<br>expertise in front-end development, with a strong focus on user<br>experience and responsive design. Proven ability to work effectively in<br>fast-paced environments, collaborate with cross-functional teams, and<br>deliver high-quality software products. Passionate about learning new<br>technologies and staying up-to-date with industry trends.
-
+Hi <br>I am Muhammad Zain Rajput<br><br>I am a passionate Frontend Developer with one year of experience in crafting responsive, user-friendly, and high-performance web applications. My expertise lies in React.js, Next.js, Tailwind CSS, JavaScript, HTML, and CSS, allowing me to build scalable and visually appealing UI components with a focus on usability and performance.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Zain Rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zain) 
