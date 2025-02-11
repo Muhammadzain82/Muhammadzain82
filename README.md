@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi <br>I am Muhammad Zain Rajput<br><br>I am a passionate Frontend Developer with one year of experience in crafting responsive, user-friendly, and high-performance web applications. My expertise lies in React.js, Next.js, Tailwind CSS, JavaScript, HTML, and CSS, allowing me to build scalable and visually appealing UI components with a focus on usability and performance.
 
+Develop dynamic, interactive, and optimized web applications.
+Create pixel-perfect, responsive designs with Tailwind CSS and modern UI frameworks.
+Build high-performance and SEO-friendly applications using Next.js.
+Implement state management, API integrations, and reusable components in React-based applications.
+Continuously explore new frontend technologies and best practices to enhance user experiences.
+
+I have a strong problem-solving mindset and a keen eye for detail.
+I believe in writing clean, maintainable, and efficient code.
+I thrive in collaborative environments, working with teams to build innovative digital experiences.
+I am always eager to learn new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Zain Rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zain) 
 
