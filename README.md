@@ -1,31 +1,46 @@
-# 💫 About Me:
-Hi <br>I am Muhammad Zain Rajput<br><br>I am a passionate Frontend Developer with one year of experience in crafting responsive, user-friendly, and high-performance web applications. My expertise lies in React.js, Next.js, Tailwind CSS, JavaScript, HTML, and CSS, allowing me to build scalable and visually appealing UI components with a focus on usability and performance.
-
-Develop dynamic, interactive, and optimized web applications.
-Create pixel-perfect, responsive designs with Tailwind CSS and modern UI frameworks.
-Build high-performance and SEO-friendly applications using Next.js.
-Implement state management, API integrations, and reusable components in React-based applications.
-Continuously explore new frontend technologies and best practices to enhance user experiences.
-
-I have a strong problem-solving mindset and a keen eye for detail.
-I believe in writing clean, maintainable, and efficient code.
-I thrive in collaborative environments, working with teams to build innovative digital experiences.
-I am always eager to learn new technologies and frameworks to stay ahead in the ever-evolving tech landscape.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Muhammad Zain Rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Zain) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username= Muhammadzain82&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user= Muhammadzain82&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username= Muhammadzain82&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi 👋, I'm Muhammad Zain Rajput</h1>
+<p align="center">
+  🚀 Passionate Frontend Developer | React.js | Next.js | Tailwind CSS <br/>
+  🎯 Building clean, scalable, and high-performance web applications
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id= Muhammadzain82&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I’m a dedicated **Frontend Developer** with **1 year of hands-on experience**, specializing in:
+
+- ⚛️ **React.js / Next.js** – High-performance, SEO-friendly applications  
+- 🎨 **Tailwind CSS & UI Frameworks** – Pixel-perfect, responsive designs  
+- 🔁 **Reusable Components & State Management** – Efficient and scalable codebase  
+- 🔗 **REST API Integration** – Dynamic and real-time functionality  
+- 💡 Continuously exploring modern web technologies to deliver the best user experiences
+
+I have a strong eye for detail, write clean and maintainable code, and enjoy collaborating in cross-functional teams to create innovative digital solutions.
+
+---
+
+## 🏆 Achievements
+
+- 🛠️ Developed multiple production-grade dashboards with Redux and API integrations  
+- 🌐 Optimized web performance and SEO for several client-facing projects  
+- 🧠 Solved 100+ frontend-related problems with clean solutions on GitHub  
+- 🧩 Built a custom UI library for consistent design across projects  
+- 👨‍💻 Contributed to private professional projects in fast-paced environments  
+
+---
+
+## 📦 Tech Stack
+
+```markdown
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
